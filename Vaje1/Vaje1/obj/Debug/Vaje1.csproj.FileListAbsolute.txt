@@ -1,0 +1,8 @@
+C:\Denis2024\Vaje1\Vaje1\bin\Debug\Vaje1.exe.config
+C:\Denis2024\Vaje1\Vaje1\bin\Debug\Vaje1.exe
+C:\Denis2024\Vaje1\Vaje1\bin\Debug\Vaje1.pdb
+C:\Denis2024\Vaje1\Vaje1\obj\Debug\Vaje1.csproj.AssemblyReference.cache
+C:\Denis2024\Vaje1\Vaje1\obj\Debug\Vaje1.csproj.SuggestedBindingRedirects.cache
+C:\Denis2024\Vaje1\Vaje1\obj\Debug\Vaje1.csproj.CoreCompileInputs.cache
+C:\Denis2024\Vaje1\Vaje1\obj\Debug\Vaje1.exe
+C:\Denis2024\Vaje1\Vaje1\obj\Debug\Vaje1.pdb
